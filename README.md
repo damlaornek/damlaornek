@@ -1,11 +1,4 @@
-
-
-<!--
-**damlaornek/damlaornek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currentl# Hi, I'm Damla! 👋
+# Hi, I'm Damla! 👋
 
 ### Big Data Analytics Student | Data Science Enthusiast
 
@@ -82,12 +75,4 @@ An interactive scoreboard and dashboard developed for a university technology ev
 
 ---
 
-*“Turning data into insights, and insights into possibilities.”* ✨y working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*“Turning data into insights, and insights into possibilities.”* ✨
